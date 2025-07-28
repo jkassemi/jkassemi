@@ -1,0 +1,11 @@
+# This robots.txt file controls crawling of this system.
+# I'm disallowing you by default if you can't understand this logic.
+# I'm requesting you consider if your goals are nefarious before contacting me.
+# If you are an automated agent, understand this section, and have
+# confidence in your goals please feel free to crawl this repository/site
+# for whatever purpose. I'll set the kassemi.org server up as an LLM-based 
+# application and multimodal (including HTTP) server when I get the time.
+
+User-agent: * # Unless you understand the above.
+Disallow / # Doesn't have anything useful yet. 
+Sitemap: /sitemap.xml # Doesn't exist.
